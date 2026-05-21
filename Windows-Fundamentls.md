@@ -7,8 +7,6 @@
 
 ---
 
-## Estructura del Laboratorio y Herramientas Aplicadas
-
 ### Windows Fundamentals 1
 En este primer módulo analicé los componentes importantes del sistema operativo y su organización:
 *   **Ediciones y GUI:** Comprensión de las diferentes versiones de Windows y navegación técnica en la interfaz gráfica.

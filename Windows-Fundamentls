@@ -1,0 +1,40 @@
+# Laboratorio de Fundamentos de Windows, Salas 1, 2 y 3
+
+## Descripción
+Este reporte documenta mi aprendizaje práctico y la resolución de los módulos **Windows Fundamentals 1, 2 y 3** en TryHackMe. Como Analista SOC L1 Junior, el dominio del sistema operativo Windows es una habilidad crítica de ciberdefensa, ya que es el entorno corporativo más común y el blanco principal de las amenazas.
+
+A través de este laboratorio, pasé de ser una usuaria común a comprender la estructura interna de Windows, sus herramientas de administración y sus mecanismos nativos de seguridad.
+
+---
+
+## Estructura del Laboratorio y Herramientas Aplicadas
+
+### Windows Fundamentals 1
+En este primer módulo analicé los componentes importantes del sistema operativo y su organización:
+*   **Ediciones y GUI:** Comprensión de las diferentes versiones de Windows y navegación técnica en la interfaz gráfica.
+*   **File System (Sistema de Archivos):** Exploración de la estructura del disco y la importancia crítica de la carpeta `Windows\System32`.
+*   **Control de Accesos:** Gestión de cuentas de usuario, perfiles, permisos de archivos y el funcionamiento del **UAC (User Account Control)** para la elevación de privilegios.
+*   **Monitoreo Básico:** Uso de la configuración, el Panel de Control y el **Task Manager (Administrador de Tareas)** para auditar el estado de la máquina.
+
+### Windows Fundamentals 2
+En el segundo nivel me enfoqué en las consolas avanzadas que utiliza un administrador o analista para diagnosticar el sistema:
+*   **Configuración Avanzada:** Uso de *System Configuration* y ajustes avanzados del sistema, incluyendo la modificación de los niveles de alerta del **UAC**.
+*   **Consolas Centrales:** Uso de **Computer Management** (Administración de Equipos) para supervisar el estado del hardware y el almacenamiento.
+*   **Monitoreo de Rendimiento:** Uso de **System Information** para auditoría de componentes y **Resource Monitor** para vigilar el comportamiento de la red, disco y procesos en tiempo real.
+*   **Línea de Comandos:** Introducción al **Command Prompt (CMD)** para la ejecución de herramientas de diagnóstico mediante la terminal.
+
+### Windows Fundamentals 3
+El último módulo se centró por completo en las capacidades de protección y resiliencia del sistema:
+*   **Mantenimiento:** Gestión de **Windows Updates** para asegurar que el sistema cuente con los parches de seguridad al día contra vulnerabilidades.
+*   **Windows Security (Centro de Seguridad):** Configuración y auditoría de los pilares de defensa integrados:
+    *   *Virus & threat protection* (Antivirus nativo).
+    *   *Firewall & network protection* (Control del tráfico de red).
+    *   *App & browser control* (Protección basada en reputación).
+    *   *Device security* (Seguridad del hardware y aislamiento de núcleo).
+*   **Cifrado:** Uso de **BitLocker** para la protección de datos mediante el cifrado de disco completo.
+*   **Resiliencia:** Comprensión del **Volume Shadow Copy Service (VSS)**, un servicio muy importante para la creación de copias de seguridad de archivos y volúmenes de disco.
+
+---
+
+## Conclusión
+Este bloque de tres salas me capacitó para auditar la seguridad de cualquier estación de trabajo Windows. Ahora sé cómo verificar si las defensas de un equipo están activas, cómo monitorear procesos sospechosos en tiempo real y cómo asegurar la persistencia de las copias de seguridad ante un incidente.

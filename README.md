@@ -1,10 +1,10 @@
-# 🛡️ Repositorio Central: Laboratorio SOC
+# 🛡️ Laboratorio SOC
 
 ¡Bienvenido/a a mi entorno de documentación técnica! Este repositorio ha sido creado para alojar, organizar y demostrar mis habilidades prácticas en el camino a convertirme en Analista SOC L1. Aquí registro el progreso real de mis laboratorios y configuraciones.
 
 ---
 
-## 🗺️ Índice de Contenidos
+## 🗺️ Contenidos
 
 Para ver el desglose técnico y los comandos aplicados en cada módulo, selecciona uno de los siguientes reportes:
 
